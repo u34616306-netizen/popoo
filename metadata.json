@@ -1,0 +1,8 @@
+{
+  "name": "React Builder",
+  "description": "Upload your React project and we'll build it for you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
